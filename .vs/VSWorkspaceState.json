@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\Dashboard",
+    "\\app\\Providers",
+    "\\resources",
+    "\\resources\\views",
+    "\\routes",
+    "\\routes\\api"
+  ],
+  "SelectedNode": "\\routes\\api\\api-v1.php",
+  "PreviewInSolutionExplorer": false
+}
